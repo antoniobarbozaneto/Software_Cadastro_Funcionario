@@ -1,0 +1,10 @@
+C:\Users\6110166\OneDrive - Thomson Reuters Incorporated\Documents\Faculdade\Tarefa_Exercicio_1\Tarefa_Exercicio_1\bin\Debug\Tarefa_Exercicio_1.exe.config
+C:\Users\6110166\OneDrive - Thomson Reuters Incorporated\Documents\Faculdade\Tarefa_Exercicio_1\Tarefa_Exercicio_1\bin\Debug\Tarefa_Exercicio_1.exe
+C:\Users\6110166\OneDrive - Thomson Reuters Incorporated\Documents\Faculdade\Tarefa_Exercicio_1\Tarefa_Exercicio_1\bin\Debug\Tarefa_Exercicio_1.pdb
+C:\Users\6110166\OneDrive - Thomson Reuters Incorporated\Documents\Faculdade\Tarefa_Exercicio_1\Tarefa_Exercicio_1\obj\Debug\Tarefa_Exercicio_1.csprojAssemblyReference.cache
+C:\Users\6110166\OneDrive - Thomson Reuters Incorporated\Documents\Faculdade\Tarefa_Exercicio_1\Tarefa_Exercicio_1\obj\Debug\Tarefa_Exercicio_1.Form1.resources
+C:\Users\6110166\OneDrive - Thomson Reuters Incorporated\Documents\Faculdade\Tarefa_Exercicio_1\Tarefa_Exercicio_1\obj\Debug\Tarefa_Exercicio_1.Properties.Resources.resources
+C:\Users\6110166\OneDrive - Thomson Reuters Incorporated\Documents\Faculdade\Tarefa_Exercicio_1\Tarefa_Exercicio_1\obj\Debug\Tarefa_Exercicio_1.csproj.GenerateResource.cache
+C:\Users\6110166\OneDrive - Thomson Reuters Incorporated\Documents\Faculdade\Tarefa_Exercicio_1\Tarefa_Exercicio_1\obj\Debug\Tarefa_Exercicio_1.csproj.CoreCompileInputs.cache
+C:\Users\6110166\OneDrive - Thomson Reuters Incorporated\Documents\Faculdade\Tarefa_Exercicio_1\Tarefa_Exercicio_1\obj\Debug\Tarefa_Exercicio_1.exe
+C:\Users\6110166\OneDrive - Thomson Reuters Incorporated\Documents\Faculdade\Tarefa_Exercicio_1\Tarefa_Exercicio_1\obj\Debug\Tarefa_Exercicio_1.pdb
